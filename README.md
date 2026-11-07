@@ -158,9 +158,6 @@ carries risk if that address is spoofed or compromised.
 
 
 
-![Slow scan visible only in the longer window](screenshots/slow-scan-detection.png)
-
-
 
 ## Alerts
 
